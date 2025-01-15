@@ -36,10 +36,11 @@ A continuación se presentan las opciones de etiquetado más comunes en Markdown
 
 ## Enlaces
 - `[nombre del enlace](url-del-enlace)`
-- [nombre del enlace](https://github.com/AndresOrtega-tech/Application-Web-Design)
+- [Repositorio de la Activida y Tarea 1](https://github.com/AndresOrtega-tech/Application-Web-Design)
 
 ## Imágenes
 - `![Texto alternativo](url-de-la-imagen)`
+- ![Logo gitHub](https://www.google.com/imgres?q=github%20image&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F91%2FOcticons-mark-github.svg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AOcticons-mark-github.svg&docid=HIAMPS7ac5hM_M&tbnid=aNDnzJBDeRJnTM&vet=12ahUKEwix-c6jk_iKAxXoJkQIHVA6JFkQM3oECBYQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwix-c6jk_iKAxXoJkQIHVA6JFkQM3oECBYQAA)
 
 # Comandos de Git Utilizados
 A continuación se listan los comandos utilizados en Git:
